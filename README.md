@@ -22,6 +22,10 @@ Fitur yang akan datang adalah:
 
 - masih belum terpikirkan :D
 
+Screenshot:
+
+![](https://dl.dropboxusercontent.com/u/54840757/nowcontact/daftar_hadir/Selection_007.png)
+
 Semoga bermanfaat :D,
 
 Ridwan F.S.
