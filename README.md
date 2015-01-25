@@ -36,6 +36,6 @@ Screenshot:
 
 ![](https://dl.dropboxusercontent.com/u/54840757/nowcontact/daftar_hadir/Selection_012.png)
 
-Semoga bermanfaat :D,
+Semoga bermanfaat untuk Anda :D,
 
 Ridwan F.S.
