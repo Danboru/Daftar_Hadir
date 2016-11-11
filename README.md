@@ -1,4 +1,4 @@
-daftar_hadir
+Daftar_Hadir
 ============
 
 latihan membuat aplikasi daftar hadir praktikum dengan menggunakan PHP dan MongoDB. Anda cukup menyimpan proyek ini di /var/www/html (jika di linux) atau di C:/xampp/htdocs (jika di windows)
