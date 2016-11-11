@@ -24,17 +24,19 @@ Fitur yang akan datang adalah:
 
 Screenshot:
 
-![](https://dl.dropboxusercontent.com/u/54840757/nowcontact/daftar_hadir/Selection_007.png)
+![](https://github.com/Danboru/Daftar_Hadir/blob/master/assets/screenshot/Selection_007.png)
 
-![](https://dl.dropboxusercontent.com/u/54840757/nowcontact/daftar_hadir/Selection_008.png)
+![](https://github.com/Danboru/Daftar_Hadir/blob/master/assets/screenshot/Selection_008.png)
 
-![](https://dl.dropboxusercontent.com/u/54840757/nowcontact/daftar_hadir/Selection_009.png)
+![](https://github.com/Danboru/Daftar_Hadir/blob/master/assets/screenshot/Selection_009.png)
 
-![](https://dl.dropboxusercontent.com/u/54840757/nowcontact/daftar_hadir/Selection_010.png)
+![](https://github.com/Danboru/Daftar_Hadir/blob/master/assets/screenshot/Selection_010.png)
 
-![](https://dl.dropboxusercontent.com/u/54840757/nowcontact/daftar_hadir/Selection_011.png)
+![](https://github.com/Danboru/Daftar_Hadir/blob/master/assets/screenshot/Selection_011.png)
 
-![](https://dl.dropboxusercontent.com/u/54840757/nowcontact/daftar_hadir/Selection_012.png)
+![](https://github.com/Danboru/Daftar_Hadir/blob/master/assets/screenshot/Selection_012.png)
+
+![](https://github.com/Danboru/Daftar_Hadir/blob/master/assets/screenshot/Selection_013.png)
 
 Semoga bermanfaat untuk Anda :D,
 
